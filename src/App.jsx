@@ -77,7 +77,7 @@ function App() {
           </h2>
 
           <p className="text-gray-400 leading-relaxed text-base md:text-lg mb-10">
-            Mahasiswa S1 Teknik Informatika semester 6 yang memiliki
+            Mahasiswa S1 Teknik Informatika semester 7 yang memiliki
             ketertarikan di bidang System Analyst dan UI/UX Design.
             Terbiasa melakukan analisis kebutuhan sistem, membuat
             diagram UML, serta merancang alur dan tampilan aplikasi
@@ -137,7 +137,7 @@ function App() {
         <div className="bg-slate-900/60 border border-slate-800 p-6 md:p-10 rounded-3xl backdrop-blur-md">
 
           <p className="text-gray-300 leading-relaxed text-base md:text-lg text-center md:text-left">
-            Mahasiswa S1 Teknik Informatika semester 6 yang memiliki
+            Mahasiswa S1 Teknik Informatika semester 7 yang memiliki
             ketertarikan di bidang System Analyst dan UI/UX Design.
             Terbiasa melakukan analisis kebutuhan sistem, membuat
             diagram UML, serta merancang alur dan tampilan aplikasi
